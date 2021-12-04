@@ -1,6 +1,7 @@
+[<img src='https://i.ibb.co/brjZ7nL/PHP-My-SQL-Connection-Test-Script.png' alt='github'>]
 ### Hi there 👋, I'm Sujon Rahman
 #### Web Developer
-![Web Developer]()
+
 
 
 Skills:  PHP/HTML / CSS/ JS /REACT JS
